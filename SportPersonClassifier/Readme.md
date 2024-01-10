@@ -1,6 +1,7 @@
 # Sport Person Classifier
 
-This project classifies the following sport personalities.
+This is an image classification Project
+This project classifies the following sport personalities' images.
 - Lionel Messi
 - Maria Sharapova
 - Roger Federer
